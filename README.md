@@ -8,7 +8,7 @@ This project involves a detailed analysis of food delivery data to uncover trend
 ## Screenshots 🖼️
 
 ### 📈 Order Value by Restaurant
-![Order Value by Restaurant](https://github.com/user-attachments/assets/order_value_by_restaurant.png)
+![Order Value by Restaurant](https://github.com/user-attachments/assets/d45d26fb-29cf-456c-b526-489fb3f0a6da)
 
 ### 📊 Delivery Fee Distribution by Restaurant
 ![Delivery Fee Distribution by Restaurant](https://github.com/user-attachments/assets/delivery_fee_distribution.png)
