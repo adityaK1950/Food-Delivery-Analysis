@@ -14,7 +14,7 @@ This project involves a detailed analysis of food delivery data to uncover trend
 ![Delivery Fee Distribution by Restaurant](https://github.com/user-attachments/assets/0b9ac971-aa81-43a8-82bb-2fdc9012f1d6)
 
 ### 📦 Profit Distribution by Restaurant
-![Profit Distribution by Restaurant](https://github.com/user-attachments/assets/profit_distribution.png)
+![Profit Distribution by Restaurant](https://github.com/user-attachments/assets/fcd2544e-c124-4783-8606-a01d8c2a1049)
 
 ## Technologies Used 🌐
 
